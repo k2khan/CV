@@ -6,8 +6,8 @@ Instead, we use Gaussian blurring, Sobel edge detection, and the Laplacian of th
 
 ## Here are some of the results:
 
-<img src="./images/rhino-car.jpg" width="250")
+<img src="./images/rhino-car.jpg" width="250">
 
-<img src="./images/einstein-marilyn.jpg" width="250)
+<img src="./images/einstein-marilyn.jpg" width="250>
 
-<img src="./images/dog-cat.jpg" width="250)
+<img src="./images/dog-cat.jpg" width="250>
