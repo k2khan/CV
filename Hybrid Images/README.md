@@ -13,9 +13,9 @@ Instead, we use Gaussian blurring, Sobel edge detection, and the Laplacian of th
 </p>
 
 <p float="left">
-    <img src="./images/einstein.jpg" width="250">
-    <img src="./images/einstein-marilyn.jpg" width="250">
     <img src="./images/marilyn.jpg" width="250">
+    <img src="./images/einstein-marilyn.jpg" width="250">
+    <img src="./images/einstein.jpg" width="250">
 </p>
 
 <p float="left">
