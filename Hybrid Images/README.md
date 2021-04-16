@@ -6,4 +6,6 @@ Instead, we use Gaussian blurring, Sobel edge detection, and the Laplacian of th
 
 ## Here are some of the results:
 
-![Car-Rhino](./images/rhino-car.jpg)
+![Rhino-Car](./images/rhino-car.jpg)
+![Einstein-Marylin](./images/einstein-marilyn.jpg)
+![dog-cat](./images/dog-cat.jpg)
