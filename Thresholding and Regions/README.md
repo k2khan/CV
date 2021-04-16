@@ -6,11 +6,11 @@ First, thresholding was performed by using Otsu's method. This seperates every p
 
 # Example of the Process
 <p float="left">
-    <img src="./images/sample/A-orig_img.jpg" width="250">
-    <img src="./images/sample/B-thresh.jpg" width="250">
-    <img src="./images/sample/C-filt_regions.jpg" width="250">
-    <img src="./images/sample/D-boxed_conn_comps.jpg" width="250">
-    <img src="./images/sample/G-final_result.png" width="250">
+    <img src="./images/sample/A-orig_img.jpg" width="250" height="300">
+    <img src="./images/sample/B-thresh.jpg" width="250" height="300">
+    <img src="./images/sample/C-filt_regions.jpg" width="250" height="300">
+    <img src="./images/sample/D-boxed_conn_comps.jpg" width="250" height="300">
+    <img src="./images/sample/G-final_result.png" width="250" height="300">
 </p>
 
 # Results
